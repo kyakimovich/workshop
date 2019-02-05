@@ -5,3 +5,5 @@ Day 1 afternoon:
 Day 2 Morning:
 -continue python
 -EXTRA
+Day 2 adternoon:
+-git version control
