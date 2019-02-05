@@ -1,0 +1,2 @@
+Day 1 Morning: 
+-Bash command line. 
