@@ -2,3 +2,5 @@ Day 1 Morning:
 -Bash command line. 
 Day 1 afternoon: 
 -intro to python.
+Day 2 Morning:
+-continue python
